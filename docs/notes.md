@@ -1,0 +1,12 @@
+## 2017-01-30
+- Scope
+  - Add reporting -> visualization (tableau, bokeh, qgis)
+  - Comparison (+history, in dynamics) between yandex/google maps and our app => yandex/goodle data about roads workload is needed 
+  - Forecasting and recommendations
+  - Coverage, region choosing, subscribe/unsubscribe from region
+  - MVP vs other scope
+- Infrastructure
+  - Add key-value (Aerospike is highly recommended) and/or relational (Postgres) DB 
+- org
+  - roles distribution => 2presentation (1 slide)
+  - tasks scheduling => 2presentation
