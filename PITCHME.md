@@ -20,3 +20,9 @@ SM messagest related to particular product => sentiment analysis => hype detecti
 #HSLIDE
 ## Tech solution
 <img src="https://github.com/BigDataHSE2016/m03-nis-yach-team/blob/master/docs/img/tech-scheme-general-land.png?raw=true" height="400">
+
+#HSLIDE
+- Kostya: visualisation & reporting
+- Timur: app
+- NatashaTs: ML & NLP
+- NatashaKh: infrastructure & tg bot & app
